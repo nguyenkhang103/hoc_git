@@ -1,0 +1,10 @@
+﻿Ho va ten,Chuc vu,Ngay thang nam sinh,He so luong
+Nguyễn Vân Anh,Thư ký,10/11/1990,4.55
+Nguyễn Vân Anh,Phó giám đốc,08/11/1990,7.5
+Nguyễn Trần Thảo Vy,Nhân viên,16/04/1998,3.5
+Trần Lan Hương,Phó phòng,20/05/1988,4.75
+Đỗ Nguyên Khang,Giám đốc,10/3/1998,8.0
+Nguyễn Hà Khánh Duy,Thực tập,04/10/1997,2.0
+Nguyễn Huỳnh Đức,Trưởng phòng,10/01/1998,5.5
+Nguyễn Thuỳ Linh,Nhân viên,05/10/1995,3.5
+Trần Thanh Đại,Chủ tịch,22/06/1970,10.0
